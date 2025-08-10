@@ -1,4 +1,4 @@
 # apnacollege-demo
 This my first git repository.
 <br>
-Author-Prashant Naik
+Author:-Prashant Naik
